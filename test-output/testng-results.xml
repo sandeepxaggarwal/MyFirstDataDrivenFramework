@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3898" started-at="2017-07-23T04:41:34Z" finished-at="2017-07-23T04:41:38Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="2183" started-at="2017-07-23T04:41:34Z" finished-at="2017-07-23T04:41:36Z">
+      <class name="DD_TestCases.LoginTest">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="isSkip" is-config="true" duration-ms="15" started-at="2017-07-23T10:11:34Z" finished-at="2017-07-23T10:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="974" started-at="2017-07-23T10:11:34Z" data-provider="getData" finished-at="2017-07-23T10:11:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-07-23T10:11:35Z" finished-at="2017-07-23T10:11:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="151" started-at="2017-07-23T10:11:35Z" data-provider="getData" finished-at="2017-07-23T10:11:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="148" started-at="2017-07-23T10:11:35Z" data-provider="getData" finished-at="2017-07-23T10:11:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-07-23T10:11:35Z" finished-at="2017-07-23T10:11:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="177" started-at="2017-07-23T10:11:35Z" data-provider="getData" finished-at="2017-07-23T10:11:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-07-23T10:11:35Z" finished-at="2017-07-23T10:11:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-07-23T10:11:36Z" finished-at="2017-07-23T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="220" started-at="2017-07-23T10:11:36Z" data-provider="getData" finished-at="2017-07-23T10:11:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="157" started-at="2017-07-23T10:11:36Z" data-provider="getData" finished-at="2017-07-23T10:11:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-07-23T10:11:36Z" finished-at="2017-07-23T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-07-23T10:11:36Z" finished-at="2017-07-23T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="150" started-at="2017-07-23T10:11:36Z" data-provider="getData" finished-at="2017-07-23T10:11:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doLogin(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="doLogin" duration-ms="151" started-at="2017-07-23T10:11:36Z" data-provider="getData" finished-at="2017-07-23T10:11:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-07-23T10:11:36Z" finished-at="2017-07-23T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.LoginTest@428640fa]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-07-23T10:11:36Z" finished-at="2017-07-23T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- DD_TestCases.LoginTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="1690" started-at="2017-07-23T04:41:36Z" finished-at="2017-07-23T04:41:38Z">
+      <class name="DD_TestCases.RegisterTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:DD_TestCases.RegisterTest@5a45133e]" name="init" is-config="true" duration-ms="13085" started-at="2017-07-23T10:11:21Z" finished-at="2017-07-23T10:11:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:DD_TestCases.RegisterTest@5a45133e]" name="isSkip" is-config="true" duration-ms="1" started-at="2017-07-23T10:11:36Z" finished-at="2017-07-23T10:11:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSkip -->
+        <test-method status="PASS" signature="doRegisterTest(java.lang.String, java.lang.String)[pri:0, instance:DD_TestCases.RegisterTest@5a45133e]" name="doRegisterTest" duration-ms="1685" started-at="2017-07-23T10:11:36Z" data-provider="getData" finished-at="2017-07-23T10:11:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pankaj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doRegisterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:DD_TestCases.RegisterTest@5a45133e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-07-23T10:11:38Z" finished-at="2017-07-23T10:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeSuite()[pri:0, instance:DD_TestCases.RegisterTest@5a45133e]" name="closeSuite" is-config="true" duration-ms="426" started-at="2017-07-23T10:11:38Z" finished-at="2017-07-23T10:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSuite -->
+      </class> <!-- DD_TestCases.RegisterTest -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
